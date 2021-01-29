@@ -1,0 +1,23 @@
+{
+  "name": "drawingByteBlog",
+  "version": "1.0.0",
+  "description": "This directory is a brief example of a [Jekyll](https://jekyllrb.com/) site that can be deployed with Vercel and zero configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcartist/drawingByteBlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcartist/drawingByteBlog/issues"
+  },
+  "homepage": "https://github.com/dcartist/drawingByteBlog#readme",
+  "dependencies": {
+    "grunt": "^1.3.0"
+  }
+}
