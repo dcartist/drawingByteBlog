@@ -1,5 +1,5 @@
 ---
 layout: page
-title: test
+title: tester
 permalink: /testing/
 ---
